@@ -1,3 +1,3 @@
-João Guilherme Schons Silva
-12311ETE008
-P2 POO
+João Guilherme Schons Silva;
+12311ETE008;
+Eng. Eletrônica e de Telecomunicações;
